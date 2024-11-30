@@ -30,7 +30,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://https://github.com/Kanitihemasundar/Helmet-Detection-in-traffic
+git clone:https://github.com/Kanitihemasundar/Helmet-Detection-in-traffic
 cd helmet-detection-system  
 Install the required Python libraries:
 
