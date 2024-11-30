@@ -1,0 +1,8 @@
+path: C:\Users\BUJJI\Downloads\Bike Helmet Detection.v2i.yolov8
+train:  C:\Users\BUJJI\Downloads\Bike Helmet Detection.v2i.yolov8\train
+val:  C:\Users\BUJJI\Downloads\Bike Helmet Detection.v2i.yolov8\valid
+test:  C:\Users\BUJJI\Downloads\Bike Helmet Detection.v2i.yolov8\test
+
+nc: 2
+names: ['With Helmet', 'Without Helmet']
+
